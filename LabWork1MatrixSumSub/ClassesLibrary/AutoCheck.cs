@@ -1,8 +1,6 @@
 namespace LabWork1MatrixSumSub.ClassesLibrary;
-//this class is used to collect time of calculations using different number of threads and write it to the console and calculate the most optimal number of threads
 public static class AutoCheck
 {
-    //this method is used to calculate the time of calculations using different number of threads and write it to the console
     public static void Check(Matrix matrix1, Matrix matrix2, Matrix resultMatrix, int threadsCount)
     {
         Console.WriteLine("AutoCheck started");

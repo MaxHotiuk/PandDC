@@ -1,13 +1,12 @@
-//use Thread to calculate sum of matrix elements (number of threads can be regulated by user)
 namespace LabWork1MatrixSumSub.ClassesLibrary;
 public static class ParallelCalculations
 {
     public static Matrix SumMatrices(Matrix matrix1, Matrix matrix2, Matrix resultMatrix, int threadsCount)
     {
         Thread[] threads = new Thread[threadsCount];
-        int currentRow = 0; // Shared row index
+        int currentRow = 0;
 
-        object lockObj = new object(); // Lock object to synchronize row access
+        object lockObj = new object();
 
         for (int i = 0; i < threadsCount; i++)
         {
@@ -16,7 +15,6 @@ public static class ParallelCalculations
                 while (true)
                 {
                     int row;
-                    // Lock to safely increment and get the current row
                     lock (lockObj)
                     {
                         if (currentRow >= matrix1.Rows)
@@ -43,9 +41,9 @@ public static class ParallelCalculations
     public static Matrix SubtractMatrices(Matrix matrix1, Matrix matrix2, Matrix resultMatrix, int threadsCount)
     {
         Thread[] threads = new Thread[threadsCount];
-        int currentRow = 0; // Shared row index
+        int currentRow = 0;
 
-        object lockObj = new object(); // Lock object to synchronize row access
+        object lockObj = new object();
 
         for (int i = 0; i < threadsCount; i++)
         {
@@ -54,7 +52,6 @@ public static class ParallelCalculations
                 while (true)
                 {
                     int row;
-                    // Lock to safely increment and get the current row
                     lock (lockObj)
                     {
                         if (currentRow >= matrix1.Rows)
