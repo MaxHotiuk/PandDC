@@ -1,0 +1,15 @@
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/bin/Debug/net8.0/LabWork1MatrixSumSub
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/bin/Debug/net8.0/LabWork1MatrixSumSub.deps.json
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/bin/Debug/net8.0/LabWork1MatrixSumSub.runtimeconfig.json
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/bin/Debug/net8.0/LabWork1MatrixSumSub.dll
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/bin/Debug/net8.0/LabWork1MatrixSumSub.pdb
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.AssemblyInfoInputs.cache
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.AssemblyInfo.cs
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.csproj.CoreCompileInputs.cache
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.sourcelink.json
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.dll
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/refint/LabWork1MatrixSumSub.dll
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.pdb
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/LabWork1MatrixSumSub.genruntimeconfig.cache
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork1MatrixSumSub/obj/Debug/net8.0/ref/LabWork1MatrixSumSub.dll
