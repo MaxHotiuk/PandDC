@@ -57,7 +57,7 @@ public static class MenuHandler
                 timer1.Start();
                 SequentialCalculation.SumMatrices(matrix1, matrix2, resultMatrix);
                 timer1.Stop();
-                Console.WriteLine($"Elapsed time: {timer1.GetElapsedMilliseconds} ms");
+                Console.WriteLine($"Elapsed time: {timer1.GetElapsedMilliseconds()} ms");
                 WriteOutput(matrix1, matrix2, resultMatrix);
                 break;
             case 2:
@@ -66,7 +66,7 @@ public static class MenuHandler
                 SequentialCalculation.SubtractMatrices(matrix1, matrix2, resultMatrix);
                 WriteOutput(matrix1, matrix2, resultMatrix);
                 timer2.Stop();
-                Console.WriteLine($"Elapsed time: {timer2.GetElapsedMilliseconds} ms");
+                Console.WriteLine($"Elapsed time: {timer2.GetElapsedMilliseconds()} ms");
                 break;
             case 3:
                 Console.WriteLine("Enter the number of threads:");
@@ -75,7 +75,7 @@ public static class MenuHandler
                 timer3.Start();
                 ParallelCalculations.SumMatrices(matrix1, matrix2, resultMatrix, parsedThreadsCount3);
                 timer3.Stop();
-                Console.WriteLine($"Elapsed time: {timer3.GetElapsedMilliseconds} ms");
+                Console.WriteLine($"Elapsed time: {timer3.GetElapsedMilliseconds()} ms");
                 WriteOutput(matrix1, matrix2, resultMatrix);
                 break;
             case 4:
@@ -85,7 +85,7 @@ public static class MenuHandler
                 timer4.Start();
                 ParallelCalculations.SubtractMatrices(matrix1, matrix2, resultMatrix, parsedThreadsCount4);
                 timer4.Stop();
-                Console.WriteLine($"Elapsed time: {timer4.GetElapsedMilliseconds} ms");
+                Console.WriteLine($"Elapsed time: {timer4.GetElapsedMilliseconds()} ms");
                 WriteOutput(matrix1, matrix2, resultMatrix);
                 break;
             case 5:

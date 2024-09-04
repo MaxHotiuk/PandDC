@@ -4,7 +4,7 @@ public static class AutoCheck
     public static void Check(Matrix matrix1, Matrix matrix2, Matrix resultMatrix, int threadsCount)
     {
         Console.WriteLine("AutoCheck started");
-        Console.WriteLine("Number of threads;Time ms");
+        Console.WriteLine("Number of threads;Time ms;Acceleration; Effectiveness");
         float minTime = float.MaxValue;
         int optimalThreads = 0;
         Timer timer1 = new();
@@ -12,6 +12,7 @@ public static class AutoCheck
         SequentialCalculation.SumMatrices(matrix1, matrix2, resultMatrix);
         timer1.Stop();
         Console.WriteLine($"1;{timer1.GetElapsedMilliseconds()} ms");
+        float timeseq = timer1.GetElapsedMilliseconds();
         if (timer1.GetElapsedMilliseconds() < minTime)
         {
             minTime = timer1.GetElapsedMilliseconds();
@@ -29,7 +30,7 @@ public static class AutoCheck
                 optimalThreads = i;
             }
 
-            Console.WriteLine($"{i};{timer.GetElapsedMilliseconds()} ms");
+            Console.WriteLine($"{i};{timer.GetElapsedMilliseconds()} ms;{timeseq / timer.GetElapsedMilliseconds()}x;{(timeseq / timer.GetElapsedMilliseconds()) / i}x");
         }
         Console.WriteLine($"Optimal number of threads: {optimalThreads}: {minTime} ms");
         Console.WriteLine("AutoCheck finished");
