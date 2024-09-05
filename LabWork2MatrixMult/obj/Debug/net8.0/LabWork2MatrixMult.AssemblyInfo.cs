@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabWork2MatrixMult")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ce47c48c2ac6db5b875097a345e86cd6fcab33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+803058b69e99b7b034b077a179bbdd9c854ed072")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabWork2MatrixMult")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabWork2MatrixMult")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
