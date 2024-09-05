@@ -1,0 +1,15 @@
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/bin/Debug/net8.0/LabWork2MatrixMult
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/bin/Debug/net8.0/LabWork2MatrixMult.deps.json
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/bin/Debug/net8.0/LabWork2MatrixMult.runtimeconfig.json
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/bin/Debug/net8.0/LabWork2MatrixMult.dll
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/bin/Debug/net8.0/LabWork2MatrixMult.pdb
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.AssemblyInfoInputs.cache
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.AssemblyInfo.cs
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.csproj.CoreCompileInputs.cache
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.sourcelink.json
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.dll
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/refint/LabWork2MatrixMult.dll
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.pdb
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/LabWork2MatrixMult.genruntimeconfig.cache
+/Users/maxhotiuk/Desktop/5sem/PandDC/LabWork2MatrixMult/obj/Debug/net8.0/ref/LabWork2MatrixMult.dll
