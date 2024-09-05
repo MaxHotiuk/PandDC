@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabWork1MatrixSumSub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4b689a0edd99a43fd7655f4ccd7cc898a342c75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182a67b4289bbb983f6ecd35dd73351f1792ea45")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabWork1MatrixSumSub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabWork1MatrixSumSub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
